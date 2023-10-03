@@ -132,7 +132,7 @@ func flagsToContractData(flags flagsAddContract) (*util.ContractData, bool, erro
 	}
 
 	if flags.MainnetAlias != "" && flow.HexToAddress(flags.MainnetAlias) == flow.EmptyAddress {
-		return nil, true, fmt.Errorf("invalid mainnnet alias address")
+		return nil, true, fmt.Errorf("invalid mainnet alias address")
 	}
 
 	return &util.ContractData{
