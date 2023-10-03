@@ -1,7 +1,7 @@
 
 # Responsible Disclosure Policy
 
-Flow was built from the ground up with security in mind. Our code, infrastructure, and development methodology helps us keep our users safe.
+Flow was built from the ground up with security in mind. Our code, infrastructure, and development methodology help us keep our users safe.
 
 We really appreciate the community's help. Responsible disclosure of vulnerabilities helps to maintain the security and privacy of everyone.
 
